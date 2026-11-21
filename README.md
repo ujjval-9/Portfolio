@@ -4,7 +4,7 @@ My personal portfolio website, built with HTML, CSS and JavaScript with help fro
 
 ## Live site
 
-https://ujjval-9.github.io
+https://ujjval-9.github.io/Portfolio/
 
 ## Features
 
